@@ -53,5 +53,5 @@ API RESTful desarrollada en Java utilizando Spring Boot como parte de un proyect
 ## 📫 Autor
 
 **Marcos Di Meco**  
-📧 marcosdimecom1@gmail.com  
+📧 marcosdimecom@gmail.com  
 📍 Mendoza, Argentina
